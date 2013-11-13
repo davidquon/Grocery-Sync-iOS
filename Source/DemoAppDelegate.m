@@ -20,8 +20,7 @@
 #import "DemoAppDelegate.h"
 #import "RootViewController.h"
 
-#import <Couchbaselite/CouchbaseLite.h> // NOTE: If this import fails, make sure you have copied
-// (or symlinked) CouchbaseLite.framework into the "Frameworks" subdirectory, as per the README.
+#import <CouchbaseLite.h>
 
 // The name of the local database the app will create. This name is mostly arbitrary, but must not
 // be changed after deploying your app, or users will lose their data!

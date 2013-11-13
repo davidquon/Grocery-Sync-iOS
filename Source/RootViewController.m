@@ -21,7 +21,7 @@
 #import "ConfigViewController.h"
 #import "DemoAppDelegate.h"
 
-#import <Couchbaselite/CouchbaseLite.h>
+#import <CouchbaseLite.h>
 
 
 @interface RootViewController ()

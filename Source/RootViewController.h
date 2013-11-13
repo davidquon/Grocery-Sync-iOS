@@ -18,8 +18,7 @@
 // the License.
 
 #import <UIKit/UIKit.h>
-#import <Couchbaselite/CBLUITableSource.h> // NOTE: If this import fails, make sure you have copied
-// (or symlinked) CouchbaseLite.framework into the "Frameworks" subdirectory, as per the README.
+#import <CBLUITableSource.h>
 @class CBLDatabase, CBLReplication;
 
 
