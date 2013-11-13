@@ -8,3 +8,5 @@ xcuserdata/
 build
 DerivedData
 *.framework
+Pods
+Podfile.lock
